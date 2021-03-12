@@ -74,4 +74,14 @@ Team: Heptagram
 - CNVD-2021-02089 filecoin
 - CNVD-2021-02089 filecoin
 - CNVD-2021-16002 KadiCoin
+- CVE-2020-20524  RealXoin
+- CVE-2020-20525  Fatcoin
+- CVE-2020-20526  USDCoin
+- CVE-2020-20527  EcoRealEstate
+- CVE-2020-20528  BCZERO
+- CVE-2020-20530  Lendroid Support Token
+- CVE-2020-20531  PYLNT
+- CVE-2020-20532  MEDIKEY
+- CVE-2020-20533  Suretly
+
 
