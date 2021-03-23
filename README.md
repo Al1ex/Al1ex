@@ -30,6 +30,14 @@ Team: Heptagram
 - CVE-2020-14195 Jackson-databind
 - CVE-2020-18527 jfinal_cms 
 - CVE-2020-18528 jfinal_cms
+- CVE-2020-20561 iCMS V7.0.15
+- CVE-2020-20562 YzmCMS 5.4
+- CVE-2020-20563 YzmCMS 5.4
+- CVE-2020-20564 YzmCMS 5.4
+- CVE-2020-20565 YzmCMS 5.4
+- CVE-2020-20566 YzmCMS 5.4
+- CVE-2020-20567 YzmCMS 5.4
+- CVE-2020-20569 YzmCMS 5.4
 
 ##### CNVD list
 - CNVD-2018-12327 Emlog CMS
@@ -65,7 +73,6 @@ Team: Heptagram
 - CNVD-2020-49285 DedeCMS
 
 #### BlockChain
-- CNVD-2020-30135 AsacCoin
 - CNVD-2020-30134 BlockChain Underlying network
 - CNVD-2020-55003 Sinoc
 - CNVD-2020-55001 Sinoc
@@ -77,6 +84,11 @@ Team: Heptagram
 - CNVD-2021-16845 oilbtc
 - CNVD-2021-16844 achievecoin
 - CNVD-2021-16843 newbitcoin
+- CNVD-2020-30135 AsacCoin
+- CVE-2020-20546  Elastos ELA
+- CVE-2020-20558  Elastos ELA
+- CVE-2020-20559  Bytom vapor
+- CVE-2020-20560  Bytom bytom
 - CVE-2020-20524  RealXoin
 - CVE-2020-20525  Fatcoin
 - CVE-2020-20526  USDCoin
@@ -86,3 +98,14 @@ Team: Heptagram
 - CVE-2020-20531  PYLNT
 - CVE-2020-20532  MEDIKEY
 - CVE-2020-20533  Suretly
+- CVE-2020-20547  CSOToken
+- CVE-2020-20548  Abyss
+- CVE-2020-20549  UnitedTokenDollars
+- CVE-2020-20550  Tesra AI Supernet
+- CVE-2020-20551  Hyper Speed Network
+- CVE-2020-20552  ISE
+- CVE-2020-20553  Ubricoin
+- CVE-2020-20554  SoarCoin
+- CVE-2020-20555  GOLDBITSCOIN
+- CVE-2020-20556  ZebiCoin
+
