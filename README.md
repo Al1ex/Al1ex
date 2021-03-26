@@ -83,6 +83,10 @@ Team: Heptagram
 - CNVD-2021-16002 KadiCoin
 - CNVD-2021-16845 oilbtc
 - CNVD-2021-16844 achievecoin
+- CNVD-2021-18261 QbaoChain
+- CNVD-2021-17272 ravecoin
+- CNVD-2021-21907 Juiice
+- CNVD-2021-21906 GAPS
 - CNVD-2021-16843 newbitcoin
 - CNVD-2020-30135 AsacCoin
 - CVE-2020-20546  Elastos ELA
@@ -108,4 +112,9 @@ Team: Heptagram
 - CVE-2020-20554  SoarCoin
 - CVE-2020-20555  GOLDBITSCOIN
 - CVE-2020-20556  ZebiCoin
+- CVE-2021-28980  DataKYC
+- CVE-2021-28981  MESH
+- CVE-2021-28983  EightteenToken
+- CVE-2021-28986  OrtaMineFund
+- CVE-2021-28988  BitexGlobalXBXCoin
 
