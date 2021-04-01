@@ -3,6 +3,8 @@ ID: Al1ex
 
 Team: Heptagram
 
+Twitter ID：Al1ex4
+
 公众号：七芒星实验室
 
 研究方向：Web渗透、移动安全、代码审计、应急响应、内网渗透、区块链安全
