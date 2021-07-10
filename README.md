@@ -117,7 +117,6 @@ Twitter ID：Al1ex4
 - CNVD-2021-37524 bzxcoin
 - CNVD-2021-37695 EPLAY
 - CNVD-2021-37362 MultiToken
-- 
 - CVE-2020-20546  Elastos ELA
 - CVE-2020-20558  Elastos ELA
 - CVE-2020-20559  Bytom vapor
@@ -147,5 +146,4 @@ Twitter ID：Al1ex4
 - CVE-2021-28986  OrtaMineFund
 - CVE-2021-28988  BitexGlobalXBXCoin
 - CVE-2021-34025  SUB1X v1.0
-- 
 
