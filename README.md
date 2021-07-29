@@ -95,7 +95,12 @@ Twitter ID：Al1ex4
 - CNVD-2020-49285 DedeCMS
 
 #### BlockChain
-- CNVD-2020-30134 BlockChain Underlying network
+##### Public Chain
+- CVE-2020-20546  Elastos ELA
+- CVE-2020-20558  Elastos ELA
+- CVE-2020-20559  Bytom vapor
+- CVE-2020-20560  Bytom bytom
+- CNVD-2020-30134 All BlockChain Underlying network(Via Go Language)
 - CNVD-2020-55003 Sinoc
 - CNVD-2020-55001 Sinoc
 - CNVD-2020-64701 Iotus
@@ -107,6 +112,18 @@ Twitter ID：Al1ex4
 - CNVD-2021-16844 achievecoin
 - CNVD-2021-18261 QbaoChain
 - CNVD-2021-17272 ravecoin
+- CNVD-2021-46295 ILCOIN
+- CNVD-2021-46296 eXPerience Chain
+- CNVD-2021-46297 BlueCoin
+- CNVD-2021-46298 SolarCoin
+- CNVD-2021-46299 PLNcoin
+- CNVD-2021-46300 Bixbcoin
+- CNVD-2021-46301 gAsp
+- CNVD-2021-46302 Advanced Internet Blocks
+- CNVD-2021-46303 MTTcoin
+- CNVD-2021-46304 Quasarcoin
+
+##### Smart Contract
 - CNVD-2021-21907 Juiice
 - CNVD-2021-21906 GAPS
 - CNVD-2021-16843 newbitcoin
@@ -117,10 +134,16 @@ Twitter ID：Al1ex4
 - CNVD-2021-37524 bzxcoin
 - CNVD-2021-37695 EPLAY
 - CNVD-2021-37362 MultiToken
-- CVE-2020-20546  Elastos ELA
-- CVE-2020-20558  Elastos ELA
-- CVE-2020-20559  Bytom vapor
-- CVE-2020-20560  Bytom bytom
+- CNVD-2021-46284 Capital
+- CNVD-2021-46285 TriLionToken
+- CNVD-2021-46286 CNYToken
+- CNVD-2021-46287 Bitcoin_Biz
+- CNVD-2021-46288 PronCoin
+- CNVD-2021-46289 QuantumToken
+- CNVD-2021-46290 BratToken
+- CNVD-2021-46291 LuckyToken
+- CNVD-2021-46292 DOXYCOIN
+- CNVD-2021-46293 PLATINCOIN
 - CVE-2020-20524  RealXoin
 - CVE-2020-20525  Fatcoin
 - CVE-2020-20526  USDCoin
@@ -146,4 +169,3 @@ Twitter ID：Al1ex4
 - CVE-2021-28986  OrtaMineFund
 - CVE-2021-28988  BitexGlobalXBXCoin
 - CVE-2021-34025  SUB1X v1.0
-
