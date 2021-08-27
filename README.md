@@ -10,8 +10,9 @@ Twitter ID：Al1ex4
 研究方向：Web渗透、移动安全、代码审计、应急响应、内网渗透、区块链安全
 
 ### Github Stats
+<img src="https://github-profile-trophy.vercel.app/?username=Al1ex&theme=dracula&column=3&margin-w=15&margin-h=15 (https://github.com/ryo-ma/github-profile-trophy)">
 
-![Al1ex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Al1ex)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Al1ex&show_icons=true&count_private=true&theme=dark" alt="subeshb1" /></p>
 
 
 ### Vulnerability list
